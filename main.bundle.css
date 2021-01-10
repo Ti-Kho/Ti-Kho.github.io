@@ -11553,7 +11553,9 @@ header {
 body.scrolled header {
   padding: 0;
   backdrop-filter: saturate(180%) blur(20px);
-  background-color: rgba(255, 255, 255, 0.6);
+ /** background-color: rgba(255, 255, 255, 0.6);**/
+   background-color: rgba(0, 0, 0, 0.2);
+
 }
 body.scrolled header.text-white {
   background-color: rgba(0, 0, 0, 0.2);

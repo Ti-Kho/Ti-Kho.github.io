@@ -3,3 +3,11 @@
 body {
     background: transparent;
 }
+#logo-div{
+  width: 7em;
+  font-weight: 300;
+  font-size: 1em;
+  text-transform: uppercase;
+  letter-spacing: 0.4em;
+  color: #141414;
+}
